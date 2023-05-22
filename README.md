@@ -1,7 +1,10 @@
 # Novak-Med
 
 ## Opis
-Novak-Med to aplikacja stworzona do wygodnego zapisywania się na wizyty do lekarzy. Dzięki Novak-Med możesz uniknąć długich oczekiwania w przychodniach i zarezerwować wizytę w dogodnym dla Ciebie terminie. Aplikacja umożliwia również przeglądanie dostępnych specjalistów, sprawdzanie ich dostępności oraz zarządzanie swoimi umówionymi wizytami.
+Novak-Med to aplikacja stworzona do wygodnego zapisywania się na wizyty do lekarzy. Dzięki Novak-
+Med możesz uniknąć długich oczekiwania w przychodniach i zarezerwować wizytę w dogodnym dla
+Ciebie terminie. Aplikacja umożliwia również przeglądanie dostępnych specjalistów, sprawdzanie ich
+dostępności oraz zarządzanie swoimi umówionymi wizytami.
 
 ## Wymagania systemowe
 Aby korzystać z aplikacji Novak-Med, potrzebujesz urządzenia z systemem Android lub iOS. Aplikację można pobrać z oficjalnych sklepów z aplikacjami, takich jak Google Play Store dla użytkowników Androida i App Store dla użytkowników iOS.
