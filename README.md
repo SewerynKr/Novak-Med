@@ -52,8 +52,8 @@ użytkowników Androida i App Store dla użytkowników iOS lub używać w przegl
 
 Jeśli masz pytania, uwagi lub sugestie dotyczące aplikacji Novak-Med, skontaktuj się z nami:
 
-- Email: kontakt@novak-med.com
+- Email: ssop.grupa@o2.pl
 - Telefon: +XX XXX XXX XXX
-- Strona internetowa: [www.novak-med.com](http://www.novak-med.com)
+- Strona internetowa: XXX
 
 Cieszymy się, że wybrałeś(aś) Novak-Med do rezerwowania wizyt medycznych. Mamy nadzieję, że aplikacja speł
