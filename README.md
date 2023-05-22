@@ -7,9 +7,10 @@ Ciebie terminie. Aplikacja umożliwia również przeglądanie dostępnych specja
 dostępności oraz zarządzanie swoimi umówionymi wizytami.
 
 ## Wymagania systemowe
-Aby korzystać z aplikacji Novak-Med, potrzebujesz urządzenia z internetem lub systemem Android lub
-iOS. Aplikację można pobrać z oficjalnych sklepów z aplikacjami, takich jak Google Play Store dla
-użytkowników Androida i App Store dla użytkowników iOS lub używać w przeglądarce internetowej.
+Aby korzystać z aplikacji Novak-Med, potrzebujesz urządzenia z internetem. Aplikację można używać w przeglądarce internetowej.
+
+## Język programowania
+Strona ta jest stworzona w HTML 5, css 3, php oraz JavaScript. Baza danych zrobiona została w języku SQL. 
 
 ## Funkcje
 
@@ -33,20 +34,6 @@ użytkowników Androida i App Store dla użytkowników iOS lub używać w przegl
 - Sprawdzanie specjalizacji i doświadczenia lekarzy.
 - Przeglądanie ocen i opinii pacjentów.
 - Wyszukiwanie lekarzy wg kategorii i lokalizacji.
-
-## Instalacja
-
-### Android
-1. Otwórz Google Play Store na swoim urządzeniu.
-2. Wyszukaj "Novak-Med" w sklepie.
-3. Wybierz aplikację "Novak-Med" z wyników wyszukiwania.
-4. Kliknij przycisk "Zainstaluj" i postępuj zgodnie z instrukcjami.
-
-### iOS
-1. Otwórz App Store na swoim urządzeniu.
-2. Wyszukaj "Novak-Med" w sklepie.
-3. Wybierz aplikację "Novak-Med" z wyników wyszukiwania.
-4. Kliknij przycisk "Pobierz" i postępuj zgodnie z instrukcjami.
 
 ## Kontakt
 
