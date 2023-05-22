@@ -7,7 +7,9 @@ Ciebie terminie. Aplikacja umożliwia również przeglądanie dostępnych specja
 dostępności oraz zarządzanie swoimi umówionymi wizytami.
 
 ## Wymagania systemowe
-Aby korzystać z aplikacji Novak-Med, potrzebujesz urządzenia z systemem Android lub iOS. Aplikację można pobrać z oficjalnych sklepów z aplikacjami, takich jak Google Play Store dla użytkowników Androida i App Store dla użytkowników iOS.
+Aby korzystać z aplikacji Novak-Med, potrzebujesz urządzenia z internetem lub systemem Android lub
+iOS. Aplikację można pobrać z oficjalnych sklepów z aplikacjami, takich jak Google Play Store dla
+użytkowników Androida i App Store dla użytkowników iOS lub używać w przeglądarce internetowej.
 
 ## Funkcje
 
